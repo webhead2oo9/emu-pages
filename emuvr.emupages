@@ -1,0 +1,4 @@
+# The Emu Pages
+# Load this file in RetroArch with The Emu Pages core
+source = https://www.emuvr.net/wiki/
+version = 1.0

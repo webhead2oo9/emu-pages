@@ -1,0 +1,22 @@
+# Build artifacts
+*.o
+*.dylib
+*.so
+*.dll
+
+# Generated headers (regenerate with make wiki-data / make sprite)
+src/wiki_data.h
+src/mascot_data.h
+
+# Vendored header (fetched with make deps)
+src/libretro.h
+
+# Claude Code
+CLAUDE.md
+.claude/
+
+# IDE
+.vscode/
+*.swp
+*.swo
+.DS_Store
